@@ -651,14 +651,14 @@
         var gitalk = new Gitalk({
           clientID: 'e93a67f8c0cb3414bc54',
           clientSecret: '27d1251a09baca8dd49d51660d07a7d34777ba36',
-          repo: 'hexo',
+          repo: 'gitalk',
           owner: 'angelife',
-          admin: angelife,
-          id: ,
-          labels: gitalk,
+          admin: ['angelife'],
+          id: location.pathname,
+          labels: ['Gitalk'],
           perPage: 15,
           pagerDirection: 'last',
-          createIssueManually: false,
+          createIssueManually: true,
           distractionFreeMode: false
         })
         gitalk.render('gitalk-container')           
