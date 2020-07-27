@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.v2ze.com/"/>
-  <updated>2020-07-20T12:01:36.050Z</updated>
+  <updated>2020-07-27T12:08:23.761Z</updated>
   <id>http://www.v2ze.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.v2ze.com/2020/07/20/10year_1/"/>
     <id>http://www.v2ze.com/2020/07/20/10year_1/</id>
     <published>2020-07-19T16:00:00.000Z</published>
-    <updated>2020-07-20T12:01:36.050Z</updated>
+    <updated>2020-07-27T12:08:23.761Z</updated>
     
     <summary type="html">
     
@@ -41,8 +41,8 @@
     <title>淳熙己亥论盗贼札子</title>
     <link href="http://www.v2ze.com/2018/06/06/%E6%B7%B3%E7%86%99%E5%B7%B1%E4%BA%A5%E8%AE%BA%E7%9B%97%E8%B4%BC%E6%9C%AD%E5%AD%90/"/>
     <id>http://www.v2ze.com/2018/06/06/%E6%B7%B3%E7%86%99%E5%B7%B1%E4%BA%A5%E8%AE%BA%E7%9B%97%E8%B4%BC%E6%9C%AD%E5%AD%90/</id>
-    <published>2018-06-06T13:33:47.000Z</published>
-    <updated>2020-07-27T05:59:04.831Z</updated>
+    <published>2018-06-06T13:33:00.000Z</published>
+    <updated>2020-07-27T11:33:34.244Z</updated>
     
     <summary type="html">
     
@@ -51,6 +51,8 @@
     </summary>
     
     
+    
+      <category term="豆瓣" scheme="http://www.v2ze.com/tags/%E8%B1%86%E7%93%A3/"/>
     
   </entry>
   
